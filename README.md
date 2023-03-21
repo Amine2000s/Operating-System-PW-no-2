@@ -3,5 +3,8 @@ this small pw is manlly focused on using simulation of Dynamic parition and the 
 
 
 
-**Important thing** \n
+**Important thing** 
+
+
+
 **when you download and execute the file the main.co nly will open up you need to add manually tpse2.c and tpse2.h**
