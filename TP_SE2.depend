@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679316016 source:/home/aminchabi/Desktop/TP_SE2/TP_SE2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tpse2.h"
+
+1679315158 /home/aminchabi/Desktop/TP_SE2/TP_SE2/tpse2.h
+	<stdio.h>
+	<stdlib.h>
+
+1679316306 source:/home/aminchabi/Desktop/TP_SE2/TP_SE2/tpse2.c
+	"tpse2.h"
+
